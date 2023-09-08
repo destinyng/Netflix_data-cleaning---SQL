@@ -1,0 +1,3 @@
+# Netflix_data-cleaning---SQL
+In this project, I performed comprehensive data cleaning on a Netflix dataset using SQL. I began by checking for duplicates and identifying columns with missing data. Then, I addressed missing values in the 'director' and 'country' columns by establishing relationships between them. I also handled missing values in the 'date_added,' 'rating,' and 'duration' columns.
+To enhance data visualization, I modified the 'country' column to retain the first country listed when multiple countries were present. Finally, I cleaned up the dataset by dropping unnecessary columns, preparing it for analysis and visualization. This project showcases my data cleaning and preprocessing skills, crucial for deriving meaningful insights from messy datasets.
